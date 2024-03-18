@@ -1,0 +1,55 @@
+{
+  "name": "Dummy Token List",
+  "timestamp": "xxxx-xx-xx",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 34443,
+      "name": "",
+      "address": "0x",
+      "decimals": 18,
+      "symbol": "",
+      "logoURI": ""
+    },
+    {
+      "chainId": 34443,
+      "name": "",
+      "address": "0x",
+      "decimals": 18,
+      "symbol": "",
+      "logoURI": ""
+    },
+    {
+      "chainId": 34443,
+      "name": "",
+      "address": "0x",
+      "decimals": 18,
+      "symbol": "",
+      "logoURI": ""
+    },
+    {
+      "chainId": 34443,
+      "name": "",
+      "address": "0x",
+      "decimals": 18,
+      "symbol": "",
+      "logoURI": ""
+    },
+    {
+      "chainId": 34443,
+      "name": "",
+      "address": "0x",
+      "decimals": 18,
+      "symbol": "",
+      "logoURI": ""
+    }
+  ]
+}
