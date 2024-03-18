@@ -13,42 +13,42 @@
   "tokens": [
     {
       "chainId": 34443,
-      "name": "DexMode",
+      "name": "DMODE",
       "address": "0x0532389216e9E9053573F644812D73157C6C81bf",
       "decimals": 18,
-      "symbol": "DMODE",
+      "symbol": "DexMode",
       "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png"
     },
     {
       "chainId": 34443,
-      "name": "Wrapped Ether",
+      "name": "WETH",
       "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
-      "symbol": "WETH",
+      "symbol": "Wrapped Ether",
       "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/weth.png"
     },
     {
       "chainId": 34443,
-      "name": "USD Theter",
+      "name": "USDT",
       "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
       "decimals": 18,
-      "symbol": "USDT",
+      "symbol": "USD Theter",
       "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdt.png"
     },
     {
       "chainId": 34443,
-      "name": "USD Coin",
+      "name": "USDC",
       "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
       "decimals": 18,
-      "symbol": "USDC",
+      "symbol": "USD Coin",
       "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdc.png"
     },
     {
       "chainId": 34443,
-      "name": "DAI Token",
+      "name": "DAI",
       "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
       "decimals": 18,
-      "symbol": "DAI",
+      "symbol": "DAI Token",
       "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dai.png"
     }
   ]
