@@ -4,7 +4,7 @@
   "keywords": [
     "null"
   ],
-  "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png",
+  "logoURI": "https://dexmode.github.io/tokenlist/logo/dmode.png",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,43 +13,43 @@
   "tokens": [
     {
       "chainId": 34443,
-      "name": "DMODE",
+      "name": "DexMode",
       "address": "0x0532389216e9E9053573F644812D73157C6C81bf",
       "decimals": 18,
-      "symbol": "DexMode",
-      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png"
+      "symbol": "DMODE",
+      "logoURI": "https://dexmode.github.io/tokenlist/logo/dmode.png"
     },
     {
       "chainId": 34443,
-      "name": "WETH",
+      "name": "Wrapped Ether",
       "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
-      "symbol": "Wrapped Ether",
-      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/weth.png"
+      "symbol": "WETH",
+      "logoURI": "https://dexmode.github.io/tokenlist/logo/weth.png"
     },
     {
       "chainId": 34443,
-      "name": "USDT",
+      "name": "USD Theter",
       "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
       "decimals": 18,
-      "symbol": "USD Theter",
-      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdt.png"
+      "symbol": "USDT",
+      "logoURI": "https://dexmode.github.io/tokenlist/logo/usdt.png"
     },
     {
       "chainId": 34443,
-      "name": "USDC",
+      "name": "USD Coin",
       "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
       "decimals": 18,
-      "symbol": "USD Coin",
-      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdc.png"
+      "symbol": "USDC",
+      "logoURI": "https://dexmode.github.io/tokenlist/logo/usdc.png"
     },
     {
       "chainId": 34443,
-      "name": "DAI",
+      "name": "DAI Token",
       "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
       "decimals": 18,
-      "symbol": "DAI Token",
-      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dai.png"
+      "symbol": "DAI",
+      "logoURI": "https://dexmode.github.io/tokenlist/logo/dai.png"
     }
   ]
 }
