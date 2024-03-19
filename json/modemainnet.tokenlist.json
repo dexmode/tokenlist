@@ -4,7 +4,7 @@
   "keywords": [
     "null"
   ],
-  "logoURI": "https://dexmode.github.io/tokenlist/logo/dmode.png",
+  "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png",
   "version": {
     "major": 1,
     "minor": 0,
@@ -17,7 +17,7 @@
       "address": "0x0532389216e9E9053573F644812D73157C6C81bf",
       "decimals": 18,
       "symbol": "DMODE",
-      "logoURI": "https://dexmode.github.io/tokenlist/logo/dmode.png"
+      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dmode.png"
     },
     {
       "chainId": 34443,
@@ -25,7 +25,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "decimals": 18,
       "symbol": "WETH",
-      "logoURI": "https://dexmode.github.io/tokenlist/logo/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/weth.png"
     },
     {
       "chainId": 34443,
@@ -33,7 +33,7 @@
       "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
       "decimals": 18,
       "symbol": "USDT",
-      "logoURI": "https://dexmode.github.io/tokenlist/logo/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdt.png"
     },
     {
       "chainId": 34443,
@@ -41,7 +41,7 @@
       "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
       "decimals": 18,
       "symbol": "USDC",
-      "logoURI": "https://dexmode.github.io/tokenlist/logo/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/usdc.png"
     },
     {
       "chainId": 34443,
@@ -49,7 +49,7 @@
       "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
       "decimals": 18,
       "symbol": "DAI",
-      "logoURI": "https://dexmode.github.io/tokenlist/logo/dai.png"
+      "logoURI": "https://raw.githubusercontent.com/dexmode/tokenlist/main/logo/dai.png"
     }
   ]
 }
